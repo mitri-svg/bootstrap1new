@@ -1,0 +1,14 @@
+output{
+    margin-top: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+}
+.home{
+    margin-top: 40px;
+}
